@@ -66,3 +66,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Mihir - [mihir@example.com](mailto:mihir@example.com)
 
 Project Link: [https://github.com/mihir2004/portfolio](https://github.com/mihir2004/portfolio)
+
+# nikita-portfolio
+Nikita Kasare Portfolio
